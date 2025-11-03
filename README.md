@@ -185,12 +185,3 @@ jobportfolio-mernstack/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is open source and available under the MIT License.
-
-## Contact
-
-Krishna Veni - 231fa04835@gmail.com
-
-Project Link: [https://github.com/krishnavenikv7/jobportfolio-mernstack](https://github.com/krishnavenikv7/jobportfolio-mernstack)
